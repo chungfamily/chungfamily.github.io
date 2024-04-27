@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/macielbombonato) 
+### [Project 1](https://github.com/chungfamily) 
 Exemplo 1
 
 ***
 
-### [Project 2](https://github.com/macielbombonato/chung.github.io)
+### [Project 2](https://github.com/chungfamily/chungfamily.github.io.git)
 Exemplo 2
 
 ***
